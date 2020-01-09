@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SII Corrector", "SII Corrector\SII Corrector.csproj", "{B7BCC469-512A-4582-824A-5E8A4E320A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BCC469-512A-4582-824A-5E8A4E320A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BCC469-512A-4582-824A-5E8A4E320A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BCC469-512A-4582-824A-5E8A4E320A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BCC469-512A-4582-824A-5E8A4E320A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FF135C-0767-41FE-B68C-2DD783C7EAAE}
+	EndGlobalSection
+EndGlobal
